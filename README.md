@@ -12,4 +12,4 @@ A skeleton mockup of a high-effort text game that I worked on.
 * Multi-platform - runs on Android, Linux, OSX, and Windows
 
 ## Disclaimer
-This is a *heavily* stripped version of the original project. As a byproduct some original features have been stripped, leaving some of the UI menus without purpose.
+This is a *heavily* stripped version of the original project. As a byproduct some original features have been stripped, leaving some of the UI menus without purpose. It is a mockup, after all.
