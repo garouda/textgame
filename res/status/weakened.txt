@@ -1,0 +1,3 @@
+Weakened ~ Attack power is reduced by 30%.
+(icon: impact-point, type:pos)
+"modify_finaldamage" -> [amount: 0.7]

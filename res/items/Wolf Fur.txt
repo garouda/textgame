@@ -1,0 +1,4 @@
+desc: Praesent est metus, vulputate ut nisl molestie.
+icon: fur
+rarity: 1
+max: 99

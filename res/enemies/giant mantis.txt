@@ -1,0 +1,13 @@
+name: Giant Mantis
+lvl: 1
+str: %10
+int: %0
+agi: %3
+con: %0
+luk: %0
+species: mantis
+gender: 3
+skills: double slash; bite; 
+items: beautiful flower; insect chitin
+hp_modifier: 0.75
+intro: You hear creaking chitters... a mantis leaps out from its camouflage!

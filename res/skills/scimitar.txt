@@ -1,0 +1,3 @@
+Scimitar ~ The wielder slashes with a curved sword.
+(type:attack)
+|>Attack [strength:1, cost: 3]

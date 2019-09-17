@@ -1,0 +1,10 @@
+name: Slime
+lvl: 1
+str: %1
+int: %1
+agi: %1
+con: %0
+luk: %2
+species: slime
+hp_modifier: 0.5
+skills: corrode; pseudopod

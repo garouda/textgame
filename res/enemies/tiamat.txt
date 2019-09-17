@@ -1,0 +1,13 @@
+name: Tiamat
+lvl: 100
+str: %2
+int: %4
+agi: %2
+con: %3
+luk: %2
+species: reptile
+skills: heal; ice claw; fire breath; poison bite
+status: nullify all; regenerate
+no_flee: true
+items: magic weapon; legendary robe
+intro: Uh oh.

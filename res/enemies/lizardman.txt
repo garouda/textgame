@@ -1,0 +1,11 @@
+name: Lizardman
+lvl: 2
+str: %3
+int: %1
+agi: %1.5
+con: %2
+luk: %0
+species: reptile
+skills: heal; double slash
+items: rusty helmet; rusty cuirass; rusty greaves; rusty sword
+intro: Snarling, a Lizardman skulks toward you!

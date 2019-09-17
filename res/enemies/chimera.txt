@@ -1,0 +1,12 @@
+name: Chimera
+lvl: 3
+str: %3
+int: %0
+agi: %1
+con: %2
+luk: %1
+species: chimera
+skills: multiattack; snakebite; fire breath
+items: chimera tooth; chimera tailscale
+hp_modifier: 3
+intro: The tell-tale roar of a Chimera echoes out from the forest!

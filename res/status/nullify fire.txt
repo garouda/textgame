@@ -1,0 +1,3 @@
+Nullify Fire
+(icon: bell-shield, type:pos)
+"modify_fire" -> [amount: 0]

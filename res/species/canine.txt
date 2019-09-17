@@ -1,0 +1,10 @@
+mouth: muzzle
+foot: paw
+feet: paws
+tail: tail
+skin: fur
+skin_adj_ed: furred
+skin_adj_y: furry
+sound_quiet: growl
+sound_loud: bark
+colors: black; white; beige; grey; brown; orange

@@ -1,0 +1,4 @@
+Heal ~ Restores some HP to the user. Radiance will continue to heal them for 3 turns.
+(type:heal)
+|>Heal [strength:3, cost:3, target:self, cooldown:4]
+|>Status [type:regenerate, target:self, strength:1, duration:3]

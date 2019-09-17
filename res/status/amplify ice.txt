@@ -1,0 +1,3 @@
+Amplify Ice
+(icon: slashed-shield, type:neg)
+"modify_ice" -> [amount: 1.5]

@@ -1,0 +1,3 @@
+Lightning Wave ~ The caster summons a crackling wave of bolts that deal damage to all foes.
+(type:attack)
+|>Attack [strength: 0.5, cost:2, target:enemies, hits:6, delay:0.05, cooldown:3] [lightning]

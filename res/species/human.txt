@@ -1,0 +1,10 @@
+mouth: mouth
+foot: foot
+feet: feet
+hastail: false
+skin: skin
+skin_adj_ed: bare
+skin_adj_y: bare
+sound_quiet: grunt
+sound_loud: shout
+colors: light; fair; olive; tan; dark

@@ -1,0 +1,3 @@
+Ice Claw ~ A claw of frigid ice slashes 2 enemies.
+(type:attack)
+|>Attack [strength:1, hits:4, target:2, delay: 0.1, cost: 2, cooldown: 2] [ice]

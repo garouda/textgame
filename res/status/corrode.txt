@@ -1,0 +1,3 @@
+Corrode ~ Incoming damage is increased by 30%.
+(icon: impact-point, type:neg)
+"take_damage" -> [amount: 1.3]

@@ -1,0 +1,3 @@
+Poison
+(icon: gooey-daemon, type:neg)
+"turn_end_skill" -> [skill: _poisondamage]

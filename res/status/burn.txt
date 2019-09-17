@@ -1,0 +1,3 @@
+Burn
+(icon: wildfires, type:neg)
+"turn_end_skill" -> [skill: _burndamage] [fire]

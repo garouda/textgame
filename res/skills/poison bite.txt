@@ -1,0 +1,4 @@
+Poison Bite ~ Bite into the foe with poisonous jaws. Guaranteed to poison the foe.
+(type:attack)
+|>Attack [strength:1, hits:2, cost:2, cooldown:2] [pierce]
+->Status [type:poison, strength: 2, chance:1, duration:1]

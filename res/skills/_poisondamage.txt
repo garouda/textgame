@@ -1,0 +1,3 @@
+_poisondamage
+"A jolt of poison sends #target reeling with pain."
+|>Attack [strength:1]

@@ -1,0 +1,3 @@
+desc: Suspendisse rhoncus, magna posuere porttitor vestibulum, nisi tellus dictum ex, facilisis facilisis magna diam in elit. Quisque et metus sed metus tempor cursus posuere nec felis.
+icon: fur
+rarity: 3

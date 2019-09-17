@@ -1,0 +1,3 @@
+Wolf Fang ~ Bite into the foe with mighty jaws.
+(type:attack)
+|>Attack [strength:1.5, cost:1]

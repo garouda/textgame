@@ -1,0 +1,10 @@
+mouth: form
+foot: form
+feet: form
+hastail: false
+skin: form
+skin_adj_ed: wispy
+skin_adj_y: wispy
+sound_quiet: whistle
+sound_loud: roar
+colors: white

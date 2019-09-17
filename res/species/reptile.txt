@@ -1,0 +1,11 @@
+mouth: maw
+foot: claw
+feet: claws
+tail: tail
+skin: scales
+skin_adj_ed: scaled
+skin_adj_y: scaly
+sound_quiet: hiss
+sound_quiet_plural: hisses
+sound_loud: roar
+colors: black; white; red; green; yellow; grey; blue; brown; orange

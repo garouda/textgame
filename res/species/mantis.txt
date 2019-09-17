@@ -1,0 +1,10 @@
+mouth: mandibles
+foot: foot
+feet: feet
+hastail: false
+skin: exoskeleton
+skin_adj_ed: chitinous
+skin_adj_y: chitinous
+sound_quiet: chitter
+sound_loud: screech
+colors: green; brown; pink; tan; dark

@@ -1,0 +1,8 @@
+desc: In hendrerit mattis odio ut dapibus. Suspendisse vehicula orci ac ipsum iaculis malesuada. Donec fringilla pharetra nibh sed viverra.
+icon: torso
+int: 50
+str: 50
+crit_rate: 100
+rarity: 6
+max: 1
+equip: 3

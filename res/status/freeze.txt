@@ -1,0 +1,3 @@
+Freeze
+(icon: snowman, type:neg)
+"take_damage" -> [amount: 9999]

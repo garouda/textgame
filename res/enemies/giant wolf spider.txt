@@ -1,0 +1,9 @@
+name: Giant Wolf Spider
+lvl: 3
+str: %1
+int: %0
+agi: %2.5
+con: %2
+luk: %1
+species: arachnid
+skills: double slash; bite

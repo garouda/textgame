@@ -1,0 +1,3 @@
+Nullify Lightning
+(icon: bell-shield, type:pos)
+"modify_lightning" -> [amount: 0]

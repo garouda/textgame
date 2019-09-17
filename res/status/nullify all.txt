@@ -1,0 +1,10 @@
+Nullify All ~ Elemental attacks will have no effect!
+(icon: bell-shield, type:pos)
+"modify_fire" -> [amount: 0]
+"modify_ice" -> [amount: 0]
+"modify_lightning" -> [amount: 0]
+"modify_wind" -> [amount: 0]
+"modify_water" -> [amount: 0]
+"modify_holy" -> [amount: 0]
+"modify_dark" -> [amount: 0]
+"modify_force" -> [amount: 0]

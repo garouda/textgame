@@ -1,0 +1,5 @@
+Multiattack ~ An elemental attack that strikes with fire, ice, and lightning.
+(type:attack)
+|>Attack [strength:1, hits: 2, cost: 2, cooldown: 3] [fire]
+|>Attack [strength:1, hits: 2] [ice]
+|>Attack [strength:1, hits: 2] [lightning]

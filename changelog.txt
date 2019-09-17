@@ -1,0 +1,25 @@
+(Month Day, Year)
+
+======= Features: =======
+
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Mauris luctus porta felis a ultricies.
+
+======= New NPCs: =======
+
+* Etiam sed tempor turpis.
+* Pellentesque nibh dui, facilisis vitae massa at, faucibus elementum erat.
+* Fusce egestas nisl sapien, sit amet pellentesque turpis aliquam dignissim.
+
+======= Changes made: =======
+
+* Praesent vitae tincidunt elit.
+* Phasellus id accumsan elit.
+
+======= Bugs fixed: =======
+
+* Cras maximus est quis nulla finibus maximus.
+* Ut porta imperdiet dui non sollicitudin.
+* Praesent accumsan id mauris sed pretium.
+* Aliquam erat volutpat.
+* Curabitur sed tempor felis. 

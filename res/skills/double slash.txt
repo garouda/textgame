@@ -1,0 +1,4 @@
+Double Slash ~ Perform a pair of perpendicular cuts, slashing through 2 targets.
+(type:attack)
+|>Attack [strength:0.5, cost:2, cooldown:2, delay:0.1, target:2]
+|>Attack [strength:1.5]

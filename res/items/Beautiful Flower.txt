@@ -1,0 +1,3 @@
+desc: Mauris metus magna, pretium sit amet enim in, sollicitudin viverra lacus.
+icon: pouch
+rarity: 2

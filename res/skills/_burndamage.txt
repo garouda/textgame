@@ -1,0 +1,3 @@
+_burndamage
+"#target winces in pain as their burn intensifies."
+|>Attack [strength:1] [fire]

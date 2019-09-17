@@ -1,0 +1,13 @@
+name: Wolf
+lvl: 1
+str: %3
+int: %1
+agi: %5
+con: %2
+luk: %4
+species: canine
+skills: double slash
+items: wolf fur
+no_flee: false
+hp_modifier: 1
+intro: A Wolf leaps out from the shadows!

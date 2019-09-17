@@ -1,0 +1,10 @@
+desc: Sed in tortor pretium.
+icon: sword
+atk: 50
+str: 35
+speed: 15
+rarity: 5
+max: 1
+equip: 1
+type: sword
+important: true

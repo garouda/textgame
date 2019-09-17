@@ -1,0 +1,3 @@
+Amplify Lightning
+(icon: slashed-shield, type:neg)
+"modify_lightning" -> [amount: 1.5]

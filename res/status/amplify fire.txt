@@ -1,0 +1,3 @@
+Amplify Fire
+(icon: slashed-shield, type:neg)
+"modify_fire" -> [amount: 1.5]

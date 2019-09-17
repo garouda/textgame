@@ -1,0 +1,4 @@
+Fire Breath ~ A whorl of fire erupts from your throat, scorching all foes.
+(type:attack)
+|>Attack [strength: 0.5;0.5;0.75;0.75;1;1;1.25;1.25;1.5;1.5, hits:10, target: enemies, delay: 0.05, cost: 5, cooldown: 4] [fire]
+->Status [type:burn, duration:2, chance:0.1]

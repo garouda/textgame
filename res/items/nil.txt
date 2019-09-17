@@ -1,0 +1,5 @@
+desc: Bad Item
+icon: unknown
+rarity: 6
+max: 99
+equip: 0

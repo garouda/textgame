@@ -1,0 +1,3 @@
+Corrode ~ An acid eats away at the enemy's armour, causing them to take 30% more damage for 4 turns.
+(type:status_neg)
+|>Status [type: corrode, duration: 4, cost: 3, cooldown: 7]

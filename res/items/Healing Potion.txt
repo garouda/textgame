@@ -1,0 +1,5 @@
+desc: Fully restores your HP.
+icon: bottle
+rarity: 3
+value_mod: 2
+func: @recoverhp(0.99999)

@@ -1,0 +1,60 @@
+@color(0|0|0|0)
+@checkpoint()
+@location(???)
+@weather(1|0)
+@setplayerspecies(Human)~
+
+@speaker(Narrator)
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit."~
+
+@speaker(Narrator)
+"Nam lectus lorem, ornare nec purus sit amet, molestie gravida turpis. Sed eget auctor ante. Morbi bibendum, nisi vel venenatis vestibulum, lacus purus semper elit, eget maximus mi ipsum quis dui."~
+
+@color(0.3|0.55|0.5)
+@background(forest)
+@location(Location Name)
+Phasellus rhoncus rhoncus mauris, sit amet placerat dui dignissim nec.
+
+Pellentesque hendrerit, erat a ultrices ullamcorper, libero diam commodo nisl, non fermentum nulla lacus ac lacus. Pellentesque augue enim, ornare eu arcu at, eleifend malesuada elit. Phasellus posuere enim vel orci dictum hendrerit.
+Sed quam mauris, venenatis in purus in, aliquet scelerisque lorem.~
+@takedamage(60)
+Vestibulum pharetra diam lacinia enim feugiat, ac faucibus risus facilisis. Maecenas ut ipsum id tellus accumsan feugiat.
+Curabitur a pretium ante, id suscipit ligula. Donec maximus, justo sed imperdiet iaculis.
+@choice(Dui arcu consectetur tellus.|A interdum odio nibh vitae turpis.)~
+<1> Nulla egestas nulla lacus, at dictum nisi faucibus ut. @recoverhp(9999)~
+<2> Interdum et malesuada fames ac ante ipsum primis in faucibus. @recoverhp(9999)~
+
+Nam accumsan nisi vitae enim porta hendrerit. Suspendisse ut nisl arcu. Etiam imperdiet urna ut turpis elementum, ac dignissim ante interdum. Vestibulum id elementum ipsum.
+Donec aliquet augue vel purus iaculis, ac dictum eros aliquam.
+
+Aliquam sagittis commodo ligula et tincidunt. Nullam libero nunc, tincidunt vitae ante eu, viverra vulputate metus.~
+
+@color(0.5|0.35|0.6|2)
+@weather(4|5)
+@background(mountain)
+Duis volutpat nisi eget euismod euismod.
+Pellentesque tincidunt ullamcorper urna, ut condimentum elit fermentum vitae.~
+
+@location(Another Location) @choice(Sed at.|Tortor condimentum.|Aliquet neque.|A feugiat sem.|Ut vel venenatis?|Est vel rutrum lectus.|Cras aliquet a massa vitae...)
+Curabitur ultricies molestie turpis, varius tempor nulla dapibus ut. Etiam laoreet nunc vitae blandit auctor.
+
+Duis felis odio, lobortis nec odio in, iaculis facilisis erat. Duis dictum ut ex quis congue. Suspendisse potenti?
+Nunc tincidunt nulla in sem venenatis, quis vehicula enim tincidunt?~
+
+@speaker(Narrator)
+Integer dictum tincidunt ante ut molestie. Aenean mattis vulputate imperdiet. Quisque in molestie urna, sed pulvinar odio. In pharetra nisi id maximus rhoncus.
+Viverra in erat a vulputate. Suspendisse ut pulvinar nibh, ac tincidunt ante. In hac habitasse platea dictumst. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis bibendum nec ante id feugiat. Suspendisse ullamcorper venenatis massa.
+
+Nam et nibh justo.~
+@input(Lorem ipsum dolor sit amet?|Name|true)~
+@setplayername(#input)
+@addpoints(100)
+@addmoney(999999)~
+
+@color(0.175|0.4|0.6)
+@background(alley)
+@location(Final Location)
+@shop(test_shop|Healing Potion; Chimera Tailscale *4; Chimera Tooth *2; Legendary Robes *1; Magic Weapon *0)
+Sed dignissim lorem sed purus interdum gravida. Proin lobortis laoreet odio id molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu tortor nibh. Cras accumsan elementum mauris, id fermentum dui semper quis. Aenean dignissim eros blandit dolor congue, at eleifend ante vulputate. Suspendisse sed varius orci.~
+!!!
+Ut posuere, ex eu dictum porttitor, erat massa commodo enim, id viverra erat nisl ac nulla. Fusce sollicitudin aliquam rutrum. Nulla sit amet nulla fringilla, consequat augue non, auctor purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.~

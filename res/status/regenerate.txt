@@ -1,0 +1,3 @@
+Regenerate
+(icon: healing, type:pos)
+"turn_end_skill" -> [skill:_heal, strength:0.5]

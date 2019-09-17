@@ -1,0 +1,3 @@
+_heal
+"#target's #targetskin @isplural(#targetskin|glow|glows) with warm and invigorating light."
+|>Heal [strength:1] [holy]

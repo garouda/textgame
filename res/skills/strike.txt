@@ -1,0 +1,3 @@
+Strike ~ A simple melee technique. Not particularly effective against tougher creatures.
+(type:attack)
+|>Attack [strength:1, cost: 2]

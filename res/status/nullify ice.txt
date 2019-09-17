@@ -1,0 +1,3 @@
+Nullify Ice
+(icon: bell-shield, type:pos)
+"modify_ice" -> [amount: 0]

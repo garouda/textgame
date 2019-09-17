@@ -1,0 +1,3 @@
+Bite ~ Bite the foe with sharp teeth.
+(type:attack)
+|>Attack [strength:1, cost: 2]

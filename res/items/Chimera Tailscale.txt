@@ -1,0 +1,3 @@
+desc: Ut imperdiet orci sed diam ornare pulvinar. Etiam eget vehicula velit. In malesuada, dui at ornare condimentum, odio elit imperdiet sem.
+icon: junk
+rarity: 4

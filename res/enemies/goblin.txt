@@ -1,0 +1,11 @@
+name: Goblin
+lvl: 1
+str: %1
+int: %1
+agi: %2
+con: %1
+luk: %1
+species: goblin
+skills: scimitar; shortbow
+items: rusty cuirass %0.5; rusty shield %0.25; goblin eyeball
+intro: A goblin leaps from the bushes!
